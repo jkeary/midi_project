@@ -1,0 +1,6 @@
+instructions for running midi.c
+
+open terminal
+go to directory you put midi.c in
+compile: "gcc midi.c"
+run: "./a.out"
